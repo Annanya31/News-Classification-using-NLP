@@ -1,1 +1,2 @@
 # News-Classification-using-NLP
+This project builds a model to classify news as genuine or false using Natural Language Processing (NLP). It applies text analytics to convert unstructured text into structured data for analysis. Key concepts include supervised learning, text preprocessing (tokenization, stemming, stopword removal), vectorization, and machine learning classifiers using Scikit-learn and NLTK. Two datasets—one for fake news and one for true news—are used, each containing attributes like title, text, subject, and date.
